@@ -1,8 +1,8 @@
 # news-image-20261124-entry-v4
 
-[![GitHub repo size](https://img.shields.io/github/repo-size/labibhanafi/news-image-20261124-entry-v4)](https://github.com/labibhanafi/news-image-20261124-entry-v4)
-[![GitHub last commit](https://img.shields.io/github/last-commit/labibhanafi/news-image-20261124-entry-v4)](https://github.com/labibhanafi/news-image-20261124-entry-v4/commits/main)
-[![License: MIT](https://img.shields.io/github/license/labibhanafi/news-image-20261124-entry-v4)](https://github.com/labibhanafi/news-image-20261124-entry-v4/blob/main/LICENSE)
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/labibhanafi/news-image-20261124-entry-v4/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/labibhanafi/news-image-20261124-entry-v4/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 
 Hero-led revision (v4) for the [make.fun bounty news-image-20261124](https://make.fun/bounty/news-image-20261124): sum up the world news of **Tuesday, 24 November 2026** in one 1024x1024 image.
 
